@@ -19,3 +19,4 @@ public class Calculadora {
         return (double) a / b;
     }
 }
+// Código revisado por Marco.
